@@ -1,0 +1,7 @@
+C:\Users\Я\source\repos\CinemaFacade\CinemaFacade\bin\Debug\CinemaFacade.exe.config
+C:\Users\Я\source\repos\CinemaFacade\CinemaFacade\bin\Debug\CinemaFacade.exe
+C:\Users\Я\source\repos\CinemaFacade\CinemaFacade\bin\Debug\CinemaFacade.pdb
+C:\Users\Я\source\repos\CinemaFacade\CinemaFacade\obj\Debug\CinemaFacade.csprojAssemblyReference.cache
+C:\Users\Я\source\repos\CinemaFacade\CinemaFacade\obj\Debug\CinemaFacade.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\CinemaFacade\CinemaFacade\obj\Debug\CinemaFacade.exe
+C:\Users\Я\source\repos\CinemaFacade\CinemaFacade\obj\Debug\CinemaFacade.pdb
